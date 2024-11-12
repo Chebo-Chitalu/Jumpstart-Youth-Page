@@ -342,11 +342,11 @@ section{
 /* activities section */
 .container-activities{
   display: flex;
-  flex-wrap: wrap;
-  gap: 20px;
-  justify-content: space-between;
+  eith: 70%;
+  /*gap: 20px;*/
+  justify-content: space-around;
 }
-.card {
+/*.card {
   background: #f9f9f9;
   border: 1px solid #ddd;
   border-radius: 8px;
